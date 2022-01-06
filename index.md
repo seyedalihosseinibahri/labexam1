@@ -12,7 +12,7 @@ salam khosh oumadi...
 
 
 
-### Definition lists can be used with HTML syntax.
+
 
 <dl>
 <dt>Name</dt>
